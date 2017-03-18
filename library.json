@@ -1,0 +1,12 @@
+{
+  "name": "DHT",
+  "keywords": "DHT",
+  "description": "DHT support",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/khasinski/arduino-DHT"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
